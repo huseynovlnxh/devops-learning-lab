@@ -1,0 +1,5 @@
+My first Linux server
+I am learning Linux Adminstration
+Seconds this is text
+3  this is text
+Operating system: Ubuntu

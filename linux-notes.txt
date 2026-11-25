@@ -1,0 +1,13 @@
+Linux learning Notes
+
+Day 1:
+Linux terminal basics.
+
+Day 2:
+File and directory management.
+
+Day 3:
+File editing and reading.
+
+Day 4:
+Today File editing.
