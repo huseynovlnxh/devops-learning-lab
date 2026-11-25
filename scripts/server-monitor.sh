@@ -4,7 +4,7 @@ echo "============================="
 echo "       SERVER MONITOR        "
 echo "============================="
 
-echo ""
+
 echo "----- Memory Usage -----"
 free -h
 
